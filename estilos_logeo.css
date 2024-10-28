@@ -1,0 +1,63 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+    background-color: #f4f4f4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    margin:0;
+
+}
+
+.container {
+    margin-top: 120px;
+    width: 25%;
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+h2 {
+    margin-bottom: 20px;
+    text-align:center; 
+    font-family:ink free;
+    
+   
+}
+/*Display se utiliza para mover la pantalla en diferentes direcciones 
+flex_direction permite mover los elementos en filas (row) o columnas (column)*/
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"] {
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+input[type="submit"] {
+    padding:10px;
+    background-color: rgb(38,20,20);
+    border: none;
+    border-radius: 3px;
+    color: white;
+    font-family: "ink free";
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 18px;
+   }
+
+   input[type="submit"]:hover /*Resaltar el botón*/ {
+    color: brown;
+   
+   }
+
+
+

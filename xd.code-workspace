@@ -1,0 +1,53 @@
+{
+	"folders": [
+		{
+			"name": "estilosfuentess",
+			"path": "../../../Users/Estudiantes/Desktop/estilosfuentess"
+		},
+		{
+			"name": "taller de js con dom",
+			"path": "../../../Users/Estudiantes/Desktop/taller de js con dom"
+		},
+		{
+			"name": "PENS",
+			"path": "../../../Users/Estudiantes/Desktop/PENS"
+		},
+		{
+			"name": "sailormoon",
+			"path": "../../../Users/Estudiantes/Desktop/sailormoon"
+		},
+		{
+			"name": "IMG",
+			"path": "../../../Users/Estudiantes/Desktop/IMG"
+		},
+		{
+			"name": "TALLER VSCDE",
+			"path": "../../../Users/Estudiantes/Desktop/TALLER VSCDE"
+		},
+		{
+			"path": "../../../Users/Estudiantes/Desktop/flexbox"
+		},
+		{
+			"path": "../../../Users/Estudiantes/Desktop/decofi"
+		},
+		{
+			"path": "../../../Users/Estudiantes/Desktop/bootstrap"
+		},
+		{
+			"path": "../sitiocoffe"
+		},
+		{
+			"path": "../../../Users/Estudiantes/Desktop/jack"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Users/Estudiantes/Downloads/Servicio Social/Servicio Social"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Servicio Social",
+		"liveServer.settings.port": 5501
+	}
+}
